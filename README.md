@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Quy (Bryan)</h1>
-<h3 align="center">Full Stack-Over-Flow Data Science</h3>
+<h3 align="center">Ph.D Candidate, focus on Software Engineer and Machine Learning</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dongchirua" alt="dongchirua" /> </p>
 
