@@ -10,8 +10,8 @@
 - 🏃 Fun fact: The furthest distance I can run is 55 km
 
 <p align="center">
-<a href="https://linkedin.com/in/hongquy" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="hongquy" height="30" width="30" /></a>
-<a href="https://stackoverflow.com/users/1432142" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="1432142" height="30" width="30" /></a>
-<a href="https://instagram.com/dongchirua" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="dongchirua" height="30" width="30" /></a>
-<a href="https://www.strava.com/athletes/25976470" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/strava.svg" alt="25976470" height="30" width="30" /></a>
+<a href="https://linkedin.com/in/hongquy" target="blank"><img align="center" src="https://cdn.simpleicons.org/linkedin" alt="hongquy" height="30" width="30" /></a>
+<a href="https://stackoverflow.com/users/1432142" target="blank"><img align="center" src="https://cdn.simpleicons.org/stackoverflow" alt="1432142" height="30" width="30" /></a>
+<a href="https://instagram.com/dongchirua" target="blank"><img align="center" src="https://cdn.simpleicons.org/instagram" alt="dongchirua" height="30" width="30" /></a>
+<a href="https://www.strava.com/athletes/25976470" target="blank"><img align="center" src="https://cdn.simpleicons.org/strava" alt="25976470" height="30" width="30" /></a>
 </p>
